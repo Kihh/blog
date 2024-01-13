@@ -1,13 +1,7 @@
 ---
 title: "Migration Hugo"
-description: 
 date: 2024-01-13T22:37:36+08:00
-image: 
-math: 
-license: 
-hidden: false
-comments: true
-draft: true
+draft: false
 ---
 
 好久没有捣鼓博客了，看着原来灰土土的博客主题感觉是真的丑，但Blogger上的主题又太少了，于是决定把博客迁移到别的程序。
