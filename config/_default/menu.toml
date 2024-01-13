@@ -7,13 +7,6 @@
 #icon = "home"
 #newtab = true
 
-[[social]]
-identifier = "rss"
-name = "RSS"
-url = "/index.xml"
-
-[social.params]
-icon = "rss"
 
 [[social]]
 identifier = "github"
@@ -22,3 +15,11 @@ url = "https://github.com/Kihh"
 
 [social.params]
 icon = "brand-github"
+
+[[social]]
+identifier = "rss"
+name = "RSS"
+url = "/index.xml"
+
+[social.params]
+icon = "rss"
