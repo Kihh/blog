@@ -10,7 +10,7 @@ comments: true
 draft: false
 ---
 
-ChatGLM3 是智谱AI和清华大学 KEG 实验室联合发布的新一代对话预训练模型。
+ChatGLM3 是智谱AI和清华大学 KEG 实验室联合发布的新一代对话预训练模型
 
 本项目适用于没有足够算力并且想尝鲜ChatGLM3-6B模型的人群，Colab笔记本内容为博主原创
 
