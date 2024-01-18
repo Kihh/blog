@@ -1,6 +1,7 @@
 ---
 title: '优化GoogleBlogger博客在国内的访问'
 date: 2022-08-11T20:16:00.011+08:00
+image: https://resources.blog.kihh.xyz/image/20240118232016.png
 draft: false
 ---
 

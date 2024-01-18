@@ -1,6 +1,7 @@
 ---
 title: 'NodeJS+Mongodb在Vercel上搭建短网址系统，支持API'
 date: 2022-08-13T16:49:00.006+08:00
+image: https://resources.blog.kihh.xyz/image/20240118231706.png
 draft: false
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "博客从Blogger迁移到HUGO"
 date: 2024-01-13T22:37:36+08:00
-image: image.png
+image: https://resources.blog.kihh.xyz/image/20240118231417.png
 draft: false
 ---
 
