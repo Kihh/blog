@@ -1,9 +1,9 @@
 ---
-title: Links
+title: "友情链接"
 links:
   - title: "Kihh"
     description: 啊没错就是我
-    website: https://Kihh.xyz
+    website: https://kihh.xyz
     image: https://resources.blog.kihh.xyz/image/avatar.jpg
   - title: "大帅呗的博客"
     description: 剪辑大神
