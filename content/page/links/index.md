@@ -1,12 +1,17 @@
 ---
 title: Links
-layout: "links"
+links:
+  - title: GitHub
+    description: GitHub is the world's largest software development platform.
+    website: https://github.com
+    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
 menu:
     main: 
         weight: 4
         params:
             icon: link
+
 comments: false
 ---
-{{< friend name="Tony" url="http://tony.blog" logo="/tony.jpg" word="A funny guy" >}}  
-{{< friend name="Mike" url="http://Mike.blog" logo="/Mike.jpg" word="A poor guy" >}}  
+
+测试页面
