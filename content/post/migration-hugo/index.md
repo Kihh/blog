@@ -1,6 +1,7 @@
 ---
 title: "博客从Blogger迁移到HUGO"
 date: 2024-01-13T22:37:36+08:00
+image: image.png
 draft: false
 ---
 
