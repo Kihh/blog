@@ -1,5 +1,5 @@
 ---
-title: "友情链接"
+title: "Links"
 links:
   - title: "Kihh"
     description: 啊没错就是我
@@ -17,3 +17,5 @@ menu:
 
 comments: false
 ---
+
+## 友情链接
