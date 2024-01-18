@@ -2,7 +2,7 @@
 title: "在Google Colab快速部署ChatGLM3-6B"
 description: 
 date: 2024-01-16T22:24:47+08:00
-image: 
+image: https://resources.blog.kihh.xyz/image/20240118222508.png
 math: 
 license: 
 hidden: false
