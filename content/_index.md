@@ -1,4 +1,5 @@
 ---
+title: "Kihh的博客"
 menu:
     main:
         name: Home
