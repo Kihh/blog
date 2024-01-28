@@ -2,7 +2,7 @@
 title: "在Ubuntu/Debian上部署Palworld幻兽帕鲁服务端"
 description: 
 date: 2024-01-28T16:08:08+08:00
-image: 
+image: https://resources.blog.kihh.xyz/image/20240128190607.png
 math: 
 license: 
 hidden: false
