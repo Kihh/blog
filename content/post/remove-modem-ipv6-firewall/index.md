@@ -2,7 +2,7 @@
 title: "解除光猫公网IPV6防火墙，适用于远程和开服等"
 description: 
 date: 2024-02-17T00:14:04+08:00
-image: 
+image: https://resources.blog.kihh.xyz/image/20240217033802.png
 math: 
 license: 
 hidden: false
