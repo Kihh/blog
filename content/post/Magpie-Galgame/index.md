@@ -30,7 +30,7 @@ CPU：I7-13620H **（不过实际使用起来并不怎么占CPU？）**
 
 GPU：RTX 4060 Laptop
 
-屏幕分辨率：2560×1600
+屏幕分辨率：2560×1600 [WebStorm 2023.2.5.lnk](C:\Users\Public\Desktop\WebStorm 2023.2.5.lnk) 
 
 系统：Windows 11 23H2
 
@@ -50,7 +50,7 @@ GPU：RTX 4060 Laptop
 
 **ACNet:**
 
-##### ![](https://resources.blog.kihh.xyz/image/20240403181547.png)
+![](https://resources.blog.kihh.xyz/image/20240403181547.png)
 
 **FSR（FSR_EASU > FSR_RCAS）:**
 
