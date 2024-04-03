@@ -64,7 +64,7 @@ GPU：RTX 4060 Laptop
 
 ![FSR](https://resources.blog.kihh.xyz/image/20240403182034.png)
 
-远看看不出来的话来个细节分析~~（Yuki的头发）~~：
+**远看看不出来的话来个细节分析~~（Yuki的头发）~~：**
 
 | <img src="https://resources.blog.kihh.xyz/image/20240403184919.png" style="zoom:33%;" /> | <img src="https://resources.blog.kihh.xyz/image/20240403185030.png" style="zoom: 33%;" /> | <img src="https://resources.blog.kihh.xyz/image/20240403185056.png" style="zoom:33%;" /> | <img src="https://resources.blog.kihh.xyz/image/20240403185121.png" style="zoom:33%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
