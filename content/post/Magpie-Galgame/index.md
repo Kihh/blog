@@ -40,23 +40,23 @@ GPU：RTX 4060 Laptop
 
 #### 素晴日HD（2018）（原版分辨率1280×960）
 
-##### 原版：
+**原版：**
 
-![原版](https://resources.blog.kihh.xyz/image/20240403181300.png)
+![](https://resources.blog.kihh.xyz/image/20240403181300.png)
 
-##### Anime4K（Anime4K Upscale_Denoise_L）：
+**Anime4K（Anime4K Upscale_Denoise_L）:**
 
-![Anime4K](https://resources.blog.kihh.xyz/image/20240403181441.png)
+![](https://resources.blog.kihh.xyz/image/20240403181441.png)
 
-##### ACNet：
+**ACNet:**
 
-##### ![ACNet](https://resources.blog.kihh.xyz/image/20240403181547.png)
+##### ![](https://resources.blog.kihh.xyz/image/20240403181547.png)
 
-**FSR（FSR_EASU > FSR_RCAS）：**
+**FSR（FSR_EASU > FSR_RCAS）:**
 
-![FSR](https://resources.blog.kihh.xyz/image/20240403182034.png)
+![](https://resources.blog.kihh.xyz/image/20240403182034.png)
 
-**远看看不出来的话来个细节分析~~（Yuki的头发）~~：**
+**远看看不出来的话来个细节分析 ~~ （Yuki的头发） ~~ :**
 
 | <img src="https://resources.blog.kihh.xyz/image/20240403184919.png" style="zoom:33%;" /> | <img src="https://resources.blog.kihh.xyz/image/20240403185030.png" style="zoom: 33%;" /> | <img src="https://resources.blog.kihh.xyz/image/20240403185056.png" style="zoom:33%;" /> | <img src="https://resources.blog.kihh.xyz/image/20240403185121.png" style="zoom:33%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
