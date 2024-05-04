@@ -2,7 +2,7 @@
 title: "博客网盘已迁移至阿里云盘"
 description: 
 date: 2024-05-5T1:35:01+08:00
-image: https://resources.blog.kihh.xyz/image/20240128190607.png
+image: 
 math: 
 license: 
 hidden: false
