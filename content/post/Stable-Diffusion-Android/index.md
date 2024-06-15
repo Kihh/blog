@@ -1,6 +1,7 @@
 ---
 title: '无需root，在安卓上跑Stable Diffusion作图'
 date: 2024-06-16T04:11:00.004+08:00
+image: https://resources.blog.kihh.xyz/image/20240616043017.png
 draft: false
 ---
 
