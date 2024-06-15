@@ -31,7 +31,7 @@ CPU：骁龙 8 Gen 2
 
 1.安装Termux
 
-官方Fdroid（需要魔法）：https://f-droid.org/zh_Hans/packages/com.termux/
+官方Fdroid（需要魔法）：[https://f-droid.org/zh_Hans/packages/com.termux/](https://f-droid.org/zh_Hans/packages/com.termux/)
 
 其他下载途径自行寻找
 
@@ -138,7 +138,7 @@ pip install --upgrade diffusers transformers accelerate ftfy xformers
 我这里的版本是python3.11，根据你的版本更改下面的路径即可
 
 ```
-sudo mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MANAGED.bk
+mv /usr/lib/python3.11/EXTERNALLY-MANAGED /usr/lib/python3.11/EXTERNALLY-MANAGED.bk
 ```
 
 回到root目录，创建app.py配置文件
@@ -205,12 +205,12 @@ cp result.png /sdcard
 
 参考文献：
 
-如何在Android手機Termux跑Stable Diffusion，用於AI繪圖：https://ivonblog.com/posts/android-stable-diffusion/
+如何在Android手機Termux跑Stable Diffusion，用於AI繪圖：[https://ivonblog.com/posts/android-stable-diffusion/](https://ivonblog.com/posts/android-stable-diffusion/)
 
-Termux更换软件源（清华源）：https://blog.csdn.net/DANGDIWEI/article/details/136094157
+Termux更换软件源（清华源）：[https://blog.csdn.net/DANGDIWEI/article/details/136094157](https://blog.csdn.net/DANGDIWEI/article/details/136094157)
 
-关于安卓14下Termux无法申请访问本地存储权限的解决方案：https://www.bilibili.com/read/cv32310990/
+关于安卓14下Termux无法申请访问本地存储权限的解决方案：[https://www.bilibili.com/read/cv32310990/](https://www.bilibili.com/read/cv32310990/)
 
-pip(3) install，完美解决 externally-managed-environment：https://www.yaolong.net/article/pip-externally-managed-environment/
+pip(3) install，完美解决 externally-managed-environment：[https://www.yaolong.net/article/pip-externally-managed-environment/](https://www.yaolong.net/article/pip-externally-managed-environment/)
 
-在 Termux 上使用硬件 GPU 加速的 proot 容器 - 風雪城：https://blog.chyk.ink/2023/03/19/termux-hw-accelerated-proot/
+在 Termux 上使用硬件 GPU 加速的 proot 容器 - 風雪城：[https://blog.chyk.ink/2023/03/19/termux-hw-accelerated-proot/](https://blog.chyk.ink/2023/03/19/termux-hw-accelerated-proot/)
