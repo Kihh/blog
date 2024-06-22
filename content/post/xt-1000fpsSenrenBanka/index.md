@@ -30,7 +30,7 @@ draft: false
 
 <img src="https://resources.blog.kihh.xyz/image/20240622210857.png" style="zoom: 67%;" />
 
-<img src="C:\Users\Kihh\AppData\Roaming\Typora\typora-user-images\image-20240622210934993.png" alt="image-20240622210934993" style="zoom:59%;" />
+<img src="https://resources.blog.kihh.xyz/image/20240622212737.png" style="zoom:59%;" />
 
 然后重启游戏，就会发现游戏变成了几百帧-1000多帧，如果没用尝试播放一下OP或者其他影片
 
