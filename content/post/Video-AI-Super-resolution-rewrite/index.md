@@ -1,5 +1,5 @@
 ---
-title: "[重新测试[显卡警告]Topaz Video AI——AI视频超分工具"
+title: "[重新测试][显卡警告]Topaz Video AI——AI视频超分工具"
 description: 
 date: 2024-07-10T1:39:01+08:00
 image: https://resources.blog.kihh.xyz/image/20240505025228.png
@@ -42,7 +42,7 @@ CPU发布年份     2016年或更新版本
 
 **原版视频（1280*720 80Mb）：**
 
-[雪恋交融OP.mp4 | Kihh的网盘](https://pan.kihh.xyz/GalGame OP/雪恋交融OP.mp4)
+[雪恋交融OP.mp4 | Kihh的网盘](https://pan.kihh.xyz/GalGame%20OP/%E9%9B%AA%E6%81%8B%E4%BA%A4%E8%9E%8DOP.mp4)
 
 **超分后（3840*2160 4.26GB）：**
 
