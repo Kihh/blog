@@ -7,7 +7,7 @@ math:
 license: 
 hidden: false
 comments: true
-draft: false
+draft: true
 ---
 
 **忠告写在前面：如果你的显卡不是特别好，请不要尝试！**
