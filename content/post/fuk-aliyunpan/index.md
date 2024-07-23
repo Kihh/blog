@@ -14,7 +14,7 @@ draft: false
 
 <img src="https://resources.blog.kihh.xyz/image/20240723211821.png" style="zoom:50%;" />
 
-我一看内容，“原画”播放、单文件1TB上传、60天回收站，这不就是不带空间的会员吗，毕竟那破会员我也有在一直续费~~（真tm纯怨种）~~
+我一看内容，“原画”播放、单文件1TB上传、60天回收站，这不就是不带空间的会员吗，毕竟那破会员我也有在一直续费 ~~（真tm纯怨种）~~
 
 <img src="https://resources.blog.kihh.xyz/image/20240723211747.png" style="zoom:50%;" />
 
