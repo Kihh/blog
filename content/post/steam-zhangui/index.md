@@ -2,7 +2,7 @@
 title: "教你制作一个有逼格的steam动态展柜"
 description: 
 date: 2024-07-31T21:57:01+08:00
-image: https://resources.blog.kihh.xyz/image/20240731215955.png
+image: https://resources.blog.kihh.xyz/image/20240731234053.png
 math: 
 license: 
 hidden: false
@@ -50,7 +50,7 @@ draft: false
 
 4.用剪裁工具按参考线裁剪出五块，每个的宽度都是150
 
-每一块都在 **文件——导出——存储为Web所用格式（旧版）**处保存
+每一块都在  **文件——导出——存储为Web所用格式（旧版）** 处保存
 
 这样就得到了五个部分的图像
 
