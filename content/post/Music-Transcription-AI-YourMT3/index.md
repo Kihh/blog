@@ -36,7 +36,7 @@ YourMT3：
 
 AnthemScore 5：
 
-[https://resources.blog.kihh.xyz/file/20240812/AnthemScore 5.mp3](https://resources.blog.kihh.xyz/file/20240812/AnthemScore 5.mp3)
+[https://resources.blog.kihh.xyz/file/20240812/AnthemScore%205.mp3](https://resources.blog.kihh.xyz/file/20240812/AnthemScore%205.mp3)
 
 PianoTrans：
 
