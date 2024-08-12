@@ -16,7 +16,7 @@ draft: false
 
 Huggingface空间 直接玩：[YourMT3 - a Hugging Face Space by mimbres](https://huggingface.co/spaces/mimbres/YourMT3)
 
-Google Colab：https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81a2vrnhBG
+Google Colab：[https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81a2vrnhBG](https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81a2vrnhBG)
 
 不过Huggingface Space的版本好像只有YPTF.MoE+Multi (noPS)这一个模型可以用，推荐去Colab可以从多个模型里自选
 
