@@ -22,27 +22,29 @@ Google Colab：https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81
 
 ## 效果对比：
 
-我分别使用三款软件分别是**YourMT3（开源 2024）**、**AnthemScore 5（付费 2024）**、**PianoTrans（ 开源 字节跳动 2022）**来对 小米晴天闹钟铃声 Alarm_Sunny_Background1 这首纯钢琴曲进行扒谱
+我分别使用三款软件分别是**YourMT3（开源 2024）**、**AnthemScore 5（付费 2024）**、 **PianoTrans（ 开源 字节跳动 2022）** 来对 小米晴天闹钟铃声 Alarm_Sunny_Background1 这首纯钢琴曲进行扒谱
 
 #### 音频试听：
 
 原版：
 
-<audio src="https://resources.blog.kihh.xyz/file/20240812/Alarm_Sunny_Background1.mp3"></audio>
+[https://resources.blog.kihh.xyz/file/20240812/Alarm_Sunny_Background1.mp3](https://resources.blog.kihh.xyz/file/20240812/Alarm_Sunny_Background1.mp3)
 
 YourMT3：
 
-<audio src="https://resources.blog.kihh.xyz/file/20240812/YourMT3.mp3"></audio>
+[https://resources.blog.kihh.xyz/file/20240812/YourMT3.mp3](https://resources.blog.kihh.xyz/file/20240812/YourMT3.mp3)
 
 AnthemScore 5：
 
-<audio src="https://resources.blog.kihh.xyz/file/20240812/AnthemScore 5.mp3"></audio>
+[https://resources.blog.kihh.xyz/file/20240812/AnthemScore 5.mp3](https://resources.blog.kihh.xyz/file/20240812/AnthemScore 5.mp3)
 
 PianoTrans：
 
-<audio src="https://resources.blog.kihh.xyz/file/20240812/PianoTrans.mp3"></audio>
+[https://resources.blog.kihh.xyz/file/20240812/PianoTrans.mp3](https://resources.blog.kihh.xyz/file/20240812/PianoTrans.mp3)
 
 其中可以很明显的听出AnthemScore 5错误的识别了BPM导致节奏变慢，PianoTrans识别错了最后一小节的音符
+
+（我的错，hugo好像不支持markdown的audio控件，所以只能放链接了，谢谢理解）
 
 #### 谱子展示（仅展示第一行）：
 
@@ -64,7 +66,7 @@ PianoTrans：
 
 毕竟是22年的产物出点错也情有可原，不能拿来跟AI元年的产物比，不过虽然最后几小节出错但前面都还可以
 
-### 多乐器扒谱：
+## 多乐器扒谱：
 
 这款YourMT3和Google MT3（我未部署成功仅看过文档）一样支持多乐器扒谱，但也只是听个响级别，不过整体调子还真能跟原曲大差不差有点震惊到我了
 

@@ -70,7 +70,7 @@ draft: false
 
 8.最后一步，在steam社区上传艺术作品
 
-快捷通道：https://steamcommunity.com/sharedfiles/edititem/767/3
+快捷通道：[https://steamcommunity.com/sharedfiles/edititem/767/3](https://steamcommunity.com/sharedfiles/edititem/767/3)
 
 选择完文件在F12控制台输入代码：
 
