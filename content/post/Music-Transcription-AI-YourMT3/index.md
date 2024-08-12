@@ -26,19 +26,19 @@ Google Colab：https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa81
 
 #### 音频试听：
 
-原版：
+**原版：**
 
 [https://resources.blog.kihh.xyz/file/20240812/Alarm_Sunny_Background1.mp3](https://resources.blog.kihh.xyz/file/20240812/Alarm_Sunny_Background1.mp3)
 
-YourMT3：
+**YourMT3：**
 
 [https://resources.blog.kihh.xyz/file/20240812/YourMT3.mp3](https://resources.blog.kihh.xyz/file/20240812/YourMT3.mp3)
 
-AnthemScore 5：
+**AnthemScore 5：**
 
 [https://resources.blog.kihh.xyz/file/20240812/AnthemScore%205.mp3](https://resources.blog.kihh.xyz/file/20240812/AnthemScore%205.mp3)
 
-PianoTrans：
+**PianoTrans：**
 
 [https://resources.blog.kihh.xyz/file/20240812/PianoTrans.mp3](https://resources.blog.kihh.xyz/file/20240812/PianoTrans.mp3)
 
