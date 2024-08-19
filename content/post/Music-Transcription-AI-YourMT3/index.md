@@ -20,6 +20,8 @@ Google Colab：[https://colab.research.google.com/drive/1AgOVEBfZknDkjmSRA7leoa8
 
 不过Huggingface Space的版本好像只有YPTF.MoE+Multi (noPS)这一个模型可以用，推荐去Colab可以从多个模型里自选
 
+经过几天的测试，Google Colab虽然可以自选MT3+模型，但免费版Tesla T4的配置对于有很多乐器且时间很长的音乐不太跑得动
+
 ## 效果对比：
 
 我分别使用三款软件分别是**YourMT3（开源 2024）**、**AnthemScore 5（付费 2024）**、 **PianoTrans（ 开源 字节跳动 2022）** 来对 小米晴天闹钟铃声 Alarm_Sunny_Background1 这首纯钢琴曲进行扒谱
