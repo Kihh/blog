@@ -2,7 +2,7 @@
 title: "解包柚子社steam国际中文版游戏"
 description: 
 date: 2024-09-07T21:14:01+08:00
-image: 
+image: https://resources.blog.kihh.xyz/image/102d02da27481348e0cf662472431c4.jpg
 math: 
 license: 
 hidden: false
@@ -12,7 +12,7 @@ draft: false
 
 文章仅供学习交流，侵删
 
-本教程不适用于2023年0721发布的《魔女的夜宴FHD版》，可能采用更复杂的加密方式，并且这种加密方式可能延续到《天使嚣嚣》和《DRACU-RIOT FHD版》，nekonyan版未测试我也没有（9月8日记：天使的审核再次被打回，可能褒姒了）
+本教程不适用于2023年0721发布的《魔女的夜宴FHD版》，可能采用清单验证之类的更复杂的加密方式，并且这种加密方式可能延续到《天使嚣嚣》和《DRACU-RIOT FHD版》，nekonyan版未测试我也没有（9月8日记：天使的审核再次被打回，可能褒姒了）
 
 众所周知[YUZUSOFT](https://www.yuzu-soft.com/)的游戏steam版本有针对steam api的二次加密，不能通过任何方法对XP3或exe直接解包，这时候就要动点手段移除exe的加密
 
