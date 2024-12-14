@@ -76,7 +76,7 @@ enabled = true
 ## Comments
 [comments]
 enabled = true
-provider = "gitalk"
+provider = "remark42"
 
 [comments.disqusjs]
 shortname = ""
