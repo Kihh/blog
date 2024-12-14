@@ -1,7 +1,7 @@
 ---
 title: "分享制作的三个伊蕾娜steam动态展柜"
 description: 
-date: 2024-08-12T12:20:01+08:00
+date: 2024-12-14T19:17:01+08:00
 image: https://resources.blog.kihh.xyz/image/202412132354939.jpg
 math: 
 license: 
