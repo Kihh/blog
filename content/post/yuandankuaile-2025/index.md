@@ -1,7 +1,7 @@
 ---
 title: "元旦快乐！"
 description: 
-date: 2024-01-01T00:00:00+08:00
+date: 2025-01-01T00:00:00+08:00
 image: 
 math: 
 license: 
